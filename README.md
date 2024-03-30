@@ -1,6 +1,6 @@
 # Data Structures and algorithms in Java
 
-This repository contains the source code for data structure and algorithm course on my youtube channel
+This repository contains the source code for data structure and algorithm course on my [youtube channel](https://youtu.be/Cs5t_MODW8k)
 
 ## Introduction
 
